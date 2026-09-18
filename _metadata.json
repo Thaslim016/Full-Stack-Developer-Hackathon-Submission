@@ -1,0 +1,76 @@
+{
+  "hash": "6765a2d2",
+  "configHash": "45e9a8aa",
+  "lockfileHash": "33ffe628",
+  "browserHash": "3d19d993",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "1518e69c",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "d1832ffc",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "e0c9dc36",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "94f4b77d",
+      "needsInterop": true
+    },
+    "chart.js": {
+      "src": "../../chart.js/dist/chart.js",
+      "file": "chart__js.js",
+      "fileHash": "31fe251b",
+      "needsInterop": false
+    },
+    "react-chartjs-2": {
+      "src": "../../react-chartjs-2/dist/index.js",
+      "file": "react-chartjs-2.js",
+      "fileHash": "601b9ecc",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "61f2e47d",
+      "needsInterop": true
+    },
+    "react-map-gl": {
+      "src": "../../react-map-gl/dist/esm/index.js",
+      "file": "react-map-gl.js",
+      "fileHash": "178f8a2c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "mapbox-gl-XUQXXR5X": {
+      "file": "mapbox-gl-XUQXXR5X.js"
+    },
+    "chunk-VIJJTZRL": {
+      "file": "chunk-VIJJTZRL.js"
+    },
+    "chunk-6BXS7Q2T": {
+      "file": "chunk-6BXS7Q2T.js"
+    },
+    "chunk-4HAMFFQC": {
+      "file": "chunk-4HAMFFQC.js"
+    },
+    "chunk-Z5J2TSOU": {
+      "file": "chunk-Z5J2TSOU.js"
+    },
+    "chunk-EQCVQC35": {
+      "file": "chunk-EQCVQC35.js"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+# Optional Render deployment blueprint.
+# Connect this repository to Render and configure the production secrets there.
+# The CI workflow remains the required automated quality gate.
